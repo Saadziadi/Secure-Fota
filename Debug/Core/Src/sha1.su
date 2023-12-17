@@ -1,0 +1,6 @@
+../Core/Src/sha1.c:32:17:_circular_shift	16	static
+../Core/Src/sha1.c:52:5:sha1_reset	16	static
+../Core/Src/sha1.c:93:5:sha1_result	24	static
+../Core/Src/sha1.c:150:5:sha1_input	24	static
+../Core/Src/sha1.c:317:8:_process_block	376	static
+../Core/Src/sha1.c:461:13:_pad_block	16	static
